@@ -1,1 +1,1 @@
-# AI Based learning app
+# AI Based learning app using Mern stack
