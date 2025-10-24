@@ -1,4 +1,4 @@
-# AI Based learning app using Mern stack
+# AI Based learning app using Java Full Stack
 🌟 AI-Driven Personalized Learning App
 
 Bridging the gap between academic knowledge and industry expectations for engineering students.
